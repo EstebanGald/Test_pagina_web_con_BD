@@ -9,7 +9,7 @@ Para la realización de este proyecto se levantó un server local usando MAMP: U
 - Presionar botón para ir a la página web de MAMP
 - Ir a la pestaña Tools y seleccionar phpMyAdmin
 - Importar el archivo .sql a phpMyAdmin
-- Colocar los archivos .php donde instaló MAMP, dentro de la carpeta htdocs, en nuestro caso es: C:\MAMP\htdocs\
+- Colocar la carpeta my_webpage dentro de la carpeta "htdocs", se encuentra en la dirección de instalación de MAMP
 - Finalmente para iniciar la página web, ir a la página web de MAMP y seleccionar la pestaña My Website.
 
 #Aclaraciones:
